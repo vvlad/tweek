@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: First Movie
+  year: 2013
+  genres:
+    - Sci-Fi
+    - Drama
+
+two:
+  title: Second Movie
+  year: 2012
+  genres:
+    - Horror
+    - Love Story
